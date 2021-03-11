@@ -1,0 +1,24 @@
+body 
+{
+    color: ;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.login-con {
+    margin-top: 50px;
+}
+
+.logo-title {
+    width: 30%;
+    margin: 0 auto;
+}
+.activemodal{
+
+	background-color:#4834d4;
+}
+
+.navbarcolor{
+
+background-color:#130f40;
+}
